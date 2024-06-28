@@ -1,4 +1,3 @@
-const password = "wghensnquoawtbrw"
 const nodemailer = require("nodemailer")
 
 const conn = nodemailer.createTransport({
